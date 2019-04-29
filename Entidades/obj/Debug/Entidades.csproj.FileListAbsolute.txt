@@ -1,0 +1,32 @@
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Entidades\bin\Debug\Entidades.dll
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Entidades\obj\Debug\Entidades.dll
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Entidades\obj\Debug\Entidades.pdb
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Entidades\bin\Debug\Entidades.dll
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Entidades\bin\Debug\Entidades.pdb
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.dll
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.pdb
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Entidades\bin\Debug\Entidades.dll
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Entidades\bin\Debug\Entidades.pdb
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.dll
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Entidades\bin\Debug\Entidades.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.pdb
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Entidades\bin\Debug\Entidades.dll
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Entidades\bin\Debug\Entidades.pdb
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.dll
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Entidades\bin\Debug\Entidades.dll
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.dll
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.pdb

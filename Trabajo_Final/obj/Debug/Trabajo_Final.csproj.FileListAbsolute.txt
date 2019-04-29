@@ -1,0 +1,105 @@
+c:\users\estudiante.sala235-pc12\documents\visual studio 2013\Projects\Trabajo_Final\Trabajo_Final\bin\Debug\Trabajo_Final.exe.config
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\obj\Debug\Trabajo_Final.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\obj\Debug\Trabajo_Final.MDIPaciente.resources
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\obj\Debug\Trabajo_Final.Paciente.resources
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\obj\Debug\Trabajo_Final.Properties.Resources.resources
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\obj\Debug\Trabajo_Final.csproj.GenerateResource.Cache
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\bin\Debug\Trabajo_Final.exe
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\bin\Debug\Trabajo_Final.pdb
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\obj\Debug\Trabajo_Final.exe
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\obj\Debug\Trabajo_Final.pdb
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\bin\Debug\Entidades.dll
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\bin\Debug\Entidades.pdb
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\Trabajo_Final\Trabajo_Final\obj\Debug\Sucursales.Sucursales.resources
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.csprojAssemblyReference.cache
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.exe
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.pdb
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Trabajo_Final.exe.config
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Trabajo_Final.exe
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Trabajo_Final.pdb
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Entidades.dll
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Entidades.pdb
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.Paciente.resources
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.Properties.Resources.resources
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.csproj.GenerateResource.cache
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.csproj.CoreCompileInputs.cache
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.csproj.CopyComplete
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Sucursales.FSucursales.resources
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.Sucursales.resources
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Trabajo_Final.exe.config
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.exe
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.pdb
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.csprojResolveAssemblyReference.cache
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.IngresarSistema.resources
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Sucursales.FSucursales.resources
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.MDIPaciente.resources
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.Paciente.resources
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.Properties.Resources.resources
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.csproj.GenerateResource.Cache
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Trabajo_Final.exe
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Trabajo_Final.pdb
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Entidades.dll
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Entidades.pdb
+D:\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.Examen.resources
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Trabajo_Final.exe.config
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.exe
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.pdb
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Trabajo_Final.exe
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Trabajo_Final.pdb
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Entidades.dll
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Entidades.pdb
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.Examen.resources
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.IngresarSistema.resources
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Sucursales.FSucursales.resources
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.MDIPaciente.resources
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.Paciente.resources
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.Properties.Resources.resources
+C:\Users\Estudiante\Documents\Visual Studio 2013\Projects\trabajo 2\PROYECTO-20190415T162817Z-001\PROYECTO\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.csproj.GenerateResource.Cache
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Trabajo_Final.exe.config
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Trabajo_Final.exe
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Trabajo_Final.pdb
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Entidades.dll
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Entidades.pdb
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.csprojAssemblyReference.cache
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.Examen.resources
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.IngresarSistema.resources
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Sucursales.FSucursales.resources
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.MDIPaciente.resources
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.Paciente.resources
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.Properties.Resources.resources
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.csproj.GenerateResource.cache
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.csproj.CoreCompileInputs.cache
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.csproj.CopyComplete
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.exe
+D:\Semestr_2_2018\Software_II\PROYECTO-20190415T162817Z-001\PROYECTO_v2\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.pdb
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Trabajo_Final.exe.config
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Trabajo_Final.exe
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Trabajo_Final.pdb
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Entidades.dll
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Entidades.pdb
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.Examen.resources
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.IngresarSistema.resources
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Sucursales.FSucursales.resources
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.MDIPaciente.resources
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.Paciente.resources
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.Properties.Resources.resources
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.csproj.GenerateResource.Cache
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.exe
+C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.pdb
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Trabajo_Final.exe.config
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.exe
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.pdb
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Trabajo_Final.exe
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Trabajo_Final.pdb
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Entidades.dll
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\bin\Debug\Entidades.pdb
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.Examen.resources
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.IngresarSistema.resources
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Sucursales.FSucursales.resources
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.MDIPaciente.resources
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.Paciente.resources
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.Properties.Resources.resources
+C:\Users\Estudiante.SALA235-PC12\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Trabajo_Final\obj\Debug\Trabajo_Final.csproj.GenerateResource.Cache
