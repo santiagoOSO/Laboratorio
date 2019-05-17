@@ -39,6 +39,8 @@
             this.lbEdad = new System.Windows.Forms.Label();
             this.lbGenero = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.lblSucursal = new System.Windows.Forms.Label();
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.lbFechaEjecucion = new System.Windows.Forms.Label();
             this.txtCostoTotal = new System.Windows.Forms.TextBox();
@@ -59,8 +61,9 @@
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Microsoft JhengHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.SystemColors.Window;
+            this.label1.ForeColor = System.Drawing.Color.Black;
             this.label1.Location = new System.Drawing.Point(35, 58);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(189, 20);
@@ -78,6 +81,7 @@
             // 
             // gbxDatosPaciente
             // 
+            this.gbxDatosPaciente.BackColor = System.Drawing.Color.Transparent;
             this.gbxDatosPaciente.Controls.Add(this.txtGenero);
             this.gbxDatosPaciente.Controls.Add(this.txtEdad);
             this.gbxDatosPaciente.Controls.Add(this.txtNombreCompleto);
@@ -85,10 +89,10 @@
             this.gbxDatosPaciente.Controls.Add(this.lbEdad);
             this.gbxDatosPaciente.Controls.Add(this.lbGenero);
             this.gbxDatosPaciente.Font = new System.Drawing.Font("Microsoft JhengHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.gbxDatosPaciente.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.gbxDatosPaciente.ForeColor = System.Drawing.Color.Black;
             this.gbxDatosPaciente.Location = new System.Drawing.Point(39, 113);
             this.gbxDatosPaciente.Name = "gbxDatosPaciente";
-            this.gbxDatosPaciente.Size = new System.Drawing.Size(426, 158);
+            this.gbxDatosPaciente.Size = new System.Drawing.Size(426, 161);
             this.gbxDatosPaciente.TabIndex = 2;
             this.gbxDatosPaciente.TabStop = false;
             this.gbxDatosPaciente.Text = "&Datos Del Paciente";
@@ -123,6 +127,7 @@
             // lbNombreCompleto
             // 
             this.lbNombreCompleto.AutoSize = true;
+            this.lbNombreCompleto.ForeColor = System.Drawing.Color.Black;
             this.lbNombreCompleto.Location = new System.Drawing.Point(22, 39);
             this.lbNombreCompleto.Name = "lbNombreCompleto";
             this.lbNombreCompleto.Size = new System.Drawing.Size(167, 20);
@@ -132,6 +137,7 @@
             // lbEdad
             // 
             this.lbEdad.AutoSize = true;
+            this.lbEdad.ForeColor = System.Drawing.Color.Black;
             this.lbEdad.Location = new System.Drawing.Point(22, 72);
             this.lbEdad.Name = "lbEdad";
             this.lbEdad.Size = new System.Drawing.Size(47, 20);
@@ -141,6 +147,7 @@
             // lbGenero
             // 
             this.lbGenero.AutoSize = true;
+            this.lbGenero.ForeColor = System.Drawing.Color.Black;
             this.lbGenero.Location = new System.Drawing.Point(22, 106);
             this.lbGenero.Name = "lbGenero";
             this.lbGenero.Size = new System.Drawing.Size(65, 20);
@@ -149,6 +156,9 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.BackColor = System.Drawing.Color.Transparent;
+            this.groupBox1.Controls.Add(this.comboBox1);
+            this.groupBox1.Controls.Add(this.lblSucursal);
             this.groupBox1.Controls.Add(this.dateTimePicker1);
             this.groupBox1.Controls.Add(this.lbFechaEjecucion);
             this.groupBox1.Controls.Add(this.txtCostoTotal);
@@ -159,14 +169,34 @@
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.lbTipoExamen);
             this.groupBox1.Controls.Add(this.cmbExamen);
+            this.groupBox1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.groupBox1.Font = new System.Drawing.Font("Microsoft JhengHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.groupBox1.ForeColor = System.Drawing.Color.Black;
             this.groupBox1.Location = new System.Drawing.Point(507, 25);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(426, 329);
             this.groupBox1.TabIndex = 3;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "&Factura";
+            // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(190, 69);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(198, 28);
+            this.comboBox1.TabIndex = 11;
+            // 
+            // lblSucursal
+            // 
+            this.lblSucursal.AutoSize = true;
+            this.lblSucursal.Font = new System.Drawing.Font("Microsoft JhengHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSucursal.ForeColor = System.Drawing.Color.Black;
+            this.lblSucursal.Location = new System.Drawing.Point(23, 71);
+            this.lblSucursal.Name = "lblSucursal";
+            this.lblSucursal.Size = new System.Drawing.Size(73, 20);
+            this.lblSucursal.TabIndex = 10;
+            this.lblSucursal.Text = "&Sucursal";
             // 
             // dateTimePicker1
             // 
@@ -179,7 +209,7 @@
             // 
             this.lbFechaEjecucion.AutoSize = true;
             this.lbFechaEjecucion.Font = new System.Drawing.Font("Microsoft JhengHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbFechaEjecucion.ForeColor = System.Drawing.SystemColors.Window;
+            this.lbFechaEjecucion.ForeColor = System.Drawing.Color.Black;
             this.lbFechaEjecucion.Location = new System.Drawing.Point(23, 112);
             this.lbFechaEjecucion.Name = "lbFechaEjecucion";
             this.lbFechaEjecucion.Size = new System.Drawing.Size(130, 20);
@@ -199,7 +229,7 @@
             // 
             this.lbCostoTotal.AutoSize = true;
             this.lbCostoTotal.Font = new System.Drawing.Font("Microsoft JhengHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbCostoTotal.ForeColor = System.Drawing.SystemColors.Window;
+            this.lbCostoTotal.ForeColor = System.Drawing.Color.Black;
             this.lbCostoTotal.Location = new System.Drawing.Point(25, 269);
             this.lbCostoTotal.Name = "lbCostoTotal";
             this.lbCostoTotal.Size = new System.Drawing.Size(96, 20);
@@ -219,7 +249,7 @@
             // 
             this.lbDescuento.AutoSize = true;
             this.lbDescuento.Font = new System.Drawing.Font("Microsoft JhengHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbDescuento.ForeColor = System.Drawing.SystemColors.Window;
+            this.lbDescuento.ForeColor = System.Drawing.Color.Black;
             this.lbDescuento.Location = new System.Drawing.Point(25, 224);
             this.lbDescuento.Name = "lbDescuento";
             this.lbDescuento.Size = new System.Drawing.Size(91, 20);
@@ -239,7 +269,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft JhengHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.SystemColors.Window;
+            this.label2.ForeColor = System.Drawing.Color.Black;
             this.label2.Location = new System.Drawing.Point(25, 183);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(148, 20);
@@ -250,7 +280,7 @@
             // 
             this.lbTipoExamen.AutoSize = true;
             this.lbTipoExamen.Font = new System.Drawing.Font("Microsoft JhengHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbTipoExamen.ForeColor = System.Drawing.SystemColors.Window;
+            this.lbTipoExamen.ForeColor = System.Drawing.Color.Black;
             this.lbTipoExamen.Location = new System.Drawing.Point(23, 33);
             this.lbTipoExamen.Name = "lbTipoExamen";
             this.lbTipoExamen.Size = new System.Drawing.Size(130, 20);
@@ -275,14 +305,17 @@
             "Bilirrubina"});
             this.cmbExamen.Location = new System.Drawing.Point(188, 30);
             this.cmbExamen.Name = "cmbExamen";
-            this.cmbExamen.Size = new System.Drawing.Size(195, 28);
+            this.cmbExamen.Size = new System.Drawing.Size(200, 28);
             this.cmbExamen.TabIndex = 1;
+            this.cmbExamen.SelectedIndexChanged += new System.EventHandler(this.cmbExamen_SelectedIndexChanged);
             // 
             // btnSalir
             // 
-            this.btnSalir.BackColor = System.Drawing.SystemColors.Window;
+            this.btnSalir.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.btnSalir.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btnSalir.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSalir.Font = new System.Drawing.Font("Microsoft JhengHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSalir.ForeColor = System.Drawing.Color.Black;
             this.btnSalir.Location = new System.Drawing.Point(341, 353);
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Size = new System.Drawing.Size(111, 31);
@@ -293,8 +326,10 @@
             // 
             // btnImprimir
             // 
-            this.btnImprimir.BackColor = System.Drawing.SystemColors.Window;
+            this.btnImprimir.BackColor = System.Drawing.SystemColors.ButtonShadow;
+            this.btnImprimir.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnImprimir.Font = new System.Drawing.Font("Microsoft JhengHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnImprimir.ForeColor = System.Drawing.Color.Black;
             this.btnImprimir.Location = new System.Drawing.Point(189, 353);
             this.btnImprimir.Name = "btnImprimir";
             this.btnImprimir.Size = new System.Drawing.Size(124, 31);
@@ -304,8 +339,10 @@
             // 
             // btnGuardar
             // 
-            this.btnGuardar.BackColor = System.Drawing.SystemColors.Window;
+            this.btnGuardar.BackColor = System.Drawing.SystemColors.ButtonShadow;
+            this.btnGuardar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnGuardar.Font = new System.Drawing.Font("Microsoft JhengHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGuardar.ForeColor = System.Drawing.Color.Black;
             this.btnGuardar.Location = new System.Drawing.Point(58, 353);
             this.btnGuardar.Name = "btnGuardar";
             this.btnGuardar.Size = new System.Drawing.Size(97, 31);
@@ -318,7 +355,8 @@
             this.AcceptButton = this.btnGuardar;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.Highlight;
+            this.BackColor = System.Drawing.SystemColors.ButtonShadow;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.CancelButton = this.btnSalir;
             this.ClientSize = new System.Drawing.Size(1008, 447);
             this.Controls.Add(this.btnGuardar);
@@ -328,6 +366,7 @@
             this.Controls.Add(this.gbxDatosPaciente);
             this.Controls.Add(this.txtPrimerNombre);
             this.Controls.Add(this.label1);
+            this.ForeColor = System.Drawing.Color.Black;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Examen";
@@ -367,5 +406,7 @@
         private System.Windows.Forms.Button btnSalir;
         private System.Windows.Forms.Button btnImprimir;
         private System.Windows.Forms.Button btnGuardar;
+        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.Label lblSucursal;
     }
 }
