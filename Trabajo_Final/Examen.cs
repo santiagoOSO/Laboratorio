@@ -16,6 +16,11 @@ namespace Trabajo_Final
         public Examen()
         {
             InitializeComponent();
+
+            
+
+
+
         }
 
         private void btnSalir_Click(object sender, EventArgs e)
@@ -24,6 +29,30 @@ namespace Trabajo_Final
 
         }
 
- 
+        private void cmbExamen_SelectedIndexChanged(object sender, EventArgs e)
+        {
+           /* double CostExamen, Descuento, CostTotal;
+
+
+            CostExamen = Convert.ToInt32(txtCostoExamen.Text);
+
+            if ( Convert.ToInt32(txtEdad.Text) > 16 || Convert.ToInt32(txtEdad.Text) > 60 )
+         
+            
+            {   Descuento = (CostExamen * 20% );
+            }
+
+              
+                else                 ( Convert.ToInt32(txtEdad.Text) < 15 || Convert.ToInt32(txtEdad.Text) <= 30 )
+
+                {
+                    Descuento = 15%
+                
+                    }
+                    
+                
+        }
+            */
+            }
     }
 }

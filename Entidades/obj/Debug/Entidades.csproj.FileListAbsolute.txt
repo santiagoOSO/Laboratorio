@@ -30,3 +30,26 @@ C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_
 C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.dll
 C:\Users\Estudiante.SALA235-PC03\Documents\Visual Studio 2013\Projects\PROYECTO_v3\LaboratorioCampuzano\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Estudiante.SALA235-PC12\Pictures\PROYECTO_v3\Laboratorio\Entidades\bin\Debug\Entidades.dll
+C:\Users\Estudiante.SALA235-PC12\Pictures\PROYECTO_v3\Laboratorio\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Estudiante.SALA235-PC12\Pictures\PROYECTO_v3\Laboratorio\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante.SALA235-PC12\Pictures\PROYECTO_v3\Laboratorio\Entidades\obj\Debug\Entidades.dll
+C:\Users\Estudiante.SALA235-PC12\Pictures\PROYECTO_v3\Laboratorio\Entidades\obj\Debug\Entidades.pdb
+D:\Semestr_2_2018\Software_II\Proyecto_2019\PROYECTO_v5\Laboratorio\Entidades\bin\Debug\Entidades.dll
+D:\Semestr_2_2018\Software_II\Proyecto_2019\PROYECTO_v5\Laboratorio\Entidades\bin\Debug\Entidades.pdb
+D:\Semestr_2_2018\Software_II\Proyecto_2019\PROYECTO_v5\Laboratorio\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Semestr_2_2018\Software_II\Proyecto_2019\PROYECTO_v5\Laboratorio\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Semestr_2_2018\Software_II\Proyecto_2019\PROYECTO_v5\Laboratorio\Entidades\obj\Debug\Entidades.dll
+D:\Semestr_2_2018\Software_II\Proyecto_2019\PROYECTO_v5\Laboratorio\Entidades\obj\Debug\Entidades.pdb
+D:\Semestr_2_2018\Software_II\Proyecto_2019\PROYECTO_v6\Laboratorio\Entidades\bin\Debug\Entidades.dll
+D:\Semestr_2_2018\Software_II\Proyecto_2019\PROYECTO_v6\Laboratorio\Entidades\bin\Debug\Entidades.pdb
+D:\Semestr_2_2018\Software_II\Proyecto_2019\PROYECTO_v6\Laboratorio\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Semestr_2_2018\Software_II\Proyecto_2019\PROYECTO_v6\Laboratorio\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Semestr_2_2018\Software_II\Proyecto_2019\PROYECTO_v6\Laboratorio\Entidades\obj\Debug\Entidades.dll
+D:\Semestr_2_2018\Software_II\Proyecto_2019\PROYECTO_v6\Laboratorio\Entidades\obj\Debug\Entidades.pdb
+D:\Semestr_2_2018\Software_II\Proyecto_2019\PROYECTO_v7\Laboratorio\Entidades\bin\Debug\Entidades.dll
+D:\Semestr_2_2018\Software_II\Proyecto_2019\PROYECTO_v7\Laboratorio\Entidades\bin\Debug\Entidades.pdb
+D:\Semestr_2_2018\Software_II\Proyecto_2019\PROYECTO_v7\Laboratorio\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Semestr_2_2018\Software_II\Proyecto_2019\PROYECTO_v7\Laboratorio\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Semestr_2_2018\Software_II\Proyecto_2019\PROYECTO_v7\Laboratorio\Entidades\obj\Debug\Entidades.dll
+D:\Semestr_2_2018\Software_II\Proyecto_2019\PROYECTO_v7\Laboratorio\Entidades\obj\Debug\Entidades.pdb

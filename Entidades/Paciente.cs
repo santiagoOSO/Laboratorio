@@ -24,6 +24,8 @@ namespace Entidades
         public EPS EPS { get; set; }
         public Regimen Regimen { get; set; }
         public string CorreoElectronico { get; set; }
+        public string ContactoEmergencia { get; set; }
+        public string Antecedente { get; set; }
         public string NombreTipoDocumento
         {
             get

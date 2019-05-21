@@ -30,8 +30,6 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(IngresarSistema));
             this.lblTitulo = new System.Windows.Forms.Label();
-            this.lblUsuario = new System.Windows.Forms.Label();
-            this.lblContraseña = new System.Windows.Forms.Label();
             this.gbxIngreso = new System.Windows.Forms.GroupBox();
             this.txtContraseña = new System.Windows.Forms.TextBox();
             this.txtUsuario = new System.Windows.Forms.TextBox();
@@ -57,66 +55,55 @@
             this.lblTitulo.TabIndex = 0;
             this.lblTitulo.Text = "Laboratorio Hermanos Campuzano";
             // 
-            // lblUsuario
-            // 
-            this.lblUsuario.AutoSize = true;
-            this.lblUsuario.Font = new System.Drawing.Font("Microsoft JhengHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblUsuario.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lblUsuario.Location = new System.Drawing.Point(18, 52);
-            this.lblUsuario.Name = "lblUsuario";
-            this.lblUsuario.Size = new System.Drawing.Size(68, 20);
-            this.lblUsuario.TabIndex = 1;
-            this.lblUsuario.Text = "&Usuario";
-            // 
-            // lblContraseña
-            // 
-            this.lblContraseña.AutoSize = true;
-            this.lblContraseña.Font = new System.Drawing.Font("Microsoft JhengHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblContraseña.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lblContraseña.Location = new System.Drawing.Point(18, 125);
-            this.lblContraseña.Name = "lblContraseña";
-            this.lblContraseña.Size = new System.Drawing.Size(97, 20);
-            this.lblContraseña.TabIndex = 2;
-            this.lblContraseña.Text = "&Contraseña";
-            // 
             // gbxIngreso
             // 
             this.gbxIngreso.Controls.Add(this.txtContraseña);
             this.gbxIngreso.Controls.Add(this.txtUsuario);
-            this.gbxIngreso.Controls.Add(this.lblContraseña);
-            this.gbxIngreso.Controls.Add(this.lblUsuario);
             this.gbxIngreso.Font = new System.Drawing.Font("Microsoft JhengHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.gbxIngreso.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.gbxIngreso.Location = new System.Drawing.Point(14, 213);
+            this.gbxIngreso.Location = new System.Drawing.Point(14, 232);
             this.gbxIngreso.Name = "gbxIngreso";
-            this.gbxIngreso.Size = new System.Drawing.Size(342, 224);
+            this.gbxIngreso.Size = new System.Drawing.Size(342, 152);
             this.gbxIngreso.TabIndex = 3;
             this.gbxIngreso.TabStop = false;
             this.gbxIngreso.Text = "Ingreso";
             // 
             // txtContraseña
             // 
-            this.txtContraseña.Location = new System.Drawing.Point(22, 148);
+            this.txtContraseña.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtContraseña.Font = new System.Drawing.Font("Open Sans", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtContraseña.ForeColor = System.Drawing.Color.Gray;
+            this.txtContraseña.Location = new System.Drawing.Point(25, 109);
             this.txtContraseña.Name = "txtContraseña";
-            this.txtContraseña.PasswordChar = '*';
-            this.txtContraseña.Size = new System.Drawing.Size(290, 28);
+            this.txtContraseña.Size = new System.Drawing.Size(290, 22);
             this.txtContraseña.TabIndex = 4;
+            this.txtContraseña.Text = "Ingresar Contraseña";
+            this.txtContraseña.Enter += new System.EventHandler(this.txtContraseña_Enter);
+            this.txtContraseña.Leave += new System.EventHandler(this.txtContraseña_Leave);
             // 
             // txtUsuario
             // 
-            this.txtUsuario.Location = new System.Drawing.Point(25, 75);
+            this.txtUsuario.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtUsuario.Font = new System.Drawing.Font("Open Sans", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtUsuario.ForeColor = System.Drawing.Color.Gray;
+            this.txtUsuario.Location = new System.Drawing.Point(25, 58);
             this.txtUsuario.Name = "txtUsuario";
-            this.txtUsuario.Size = new System.Drawing.Size(290, 28);
+            this.txtUsuario.Size = new System.Drawing.Size(290, 22);
             this.txtUsuario.TabIndex = 3;
+            this.txtUsuario.Text = "Ingresar Usuario";
+            this.txtUsuario.Enter += new System.EventHandler(this.txtUsuario_Enter);
+            this.txtUsuario.Leave += new System.EventHandler(this.txtUsuario_Leave);
             // 
             // btnIngresar
             // 
             this.btnIngresar.BackColor = System.Drawing.SystemColors.Highlight;
+            this.btnIngresar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.btnIngresar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnIngresar.Font = new System.Drawing.Font("Microsoft JhengHei UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnIngresar.ForeColor = System.Drawing.Color.White;
-            this.btnIngresar.Location = new System.Drawing.Point(43, 460);
+            this.btnIngresar.Location = new System.Drawing.Point(39, 426);
             this.btnIngresar.Name = "btnIngresar";
-            this.btnIngresar.Size = new System.Drawing.Size(114, 42);
+            this.btnIngresar.Size = new System.Drawing.Size(109, 34);
             this.btnIngresar.TabIndex = 0;
             this.btnIngresar.Text = "&Ingresar";
             this.btnIngresar.UseVisualStyleBackColor = false;
@@ -151,9 +138,9 @@
             this.btnCancelar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCancelar.Font = new System.Drawing.Font("Microsoft JhengHei UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCancelar.ForeColor = System.Drawing.Color.White;
-            this.btnCancelar.Location = new System.Drawing.Point(209, 463);
+            this.btnCancelar.Location = new System.Drawing.Point(192, 426);
             this.btnCancelar.Name = "btnCancelar";
-            this.btnCancelar.Size = new System.Drawing.Size(107, 36);
+            this.btnCancelar.Size = new System.Drawing.Size(111, 34);
             this.btnCancelar.TabIndex = 1;
             this.btnCancelar.Text = "C&ancelar";
             this.btnCancelar.UseVisualStyleBackColor = false;
@@ -162,9 +149,9 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(124, 80);
+            this.pictureBox2.Location = new System.Drawing.Point(104, 82);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(127, 128);
+            this.pictureBox2.Size = new System.Drawing.Size(150, 146);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
@@ -176,7 +163,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Highlight;
             this.CancelButton = this.btnCancelar;
-            this.ClientSize = new System.Drawing.Size(370, 544);
+            this.ClientSize = new System.Drawing.Size(370, 492);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.lblTitulo);
             this.Controls.Add(this.panel1);
@@ -186,6 +173,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "IngresarSistema";
+            this.Opacity = 0.85D;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "IngresarSistema";
             this.gbxIngreso.ResumeLayout(false);
@@ -201,8 +189,6 @@
         #endregion
 
         private System.Windows.Forms.Label lblTitulo;
-        private System.Windows.Forms.Label lblUsuario;
-        private System.Windows.Forms.Label lblContraseña;
         private System.Windows.Forms.GroupBox gbxIngreso;
         private System.Windows.Forms.TextBox txtContraseña;
         private System.Windows.Forms.TextBox txtUsuario;
